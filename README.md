@@ -16,6 +16,7 @@ Calculates the factorial of a number using a "for" loop.
 - Example: "5! = 120"
 - Time Complexity: O(n)
 - File: "factorial.py"
+https://github.com/AlfesKhan/python_basic_25bcon2049_factorial.git
 
 2. Student Information System
 
@@ -24,6 +25,7 @@ Demonstrates object-oriented programming by creating a student object containing
 - Concepts: Classes, objects, constructors, instance attributes, and formatted output.
 - Example: Displays student details for Rahul.
 - File: "student.py"
+https://github.com/AlfesKhan/python_basic_25bcon2049_Structure.git
 
 3. Fibonacci Series Generator
 
@@ -33,6 +35,7 @@ Generates the first 10 terms of the Fibonacci sequence using an iterative approa
 - Example Output: "0 1 1 2 3 5 8 13 21 34"
 - Time Complexity: O(n)
 - File: "fibonacci.py"
+https://github.com/AlfesKhan/python_basic_25bcon2049_fibonacci.git
 
 🛠️ Technologies Used
 
